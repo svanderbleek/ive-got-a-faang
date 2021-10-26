@@ -15,4 +15,6 @@ https://www.youtube.com/watch?v=Jg7qsW8qboE
 
 ## Technical Leadership
 
+* Manager's Path
+
 ## Culture
